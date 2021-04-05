@@ -4,7 +4,7 @@ Base de proyecto JS con Webpack @5.3 configurado y Babel @7.13
 
 ### Installation
 
-1. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+1. Use the package manager [npm](https://www.npmjs.com/) to install node modules.
 
 ```bash
 npm install

@@ -1,6 +1,6 @@
 # Skeleton Webpack
 
-Base de proyecto JS con Webpack @5.3 configurado y Babel @7.13
+JS project base with Webpack @ 5.3 configured and Babel @ 7.13
 
 ### Installation
 

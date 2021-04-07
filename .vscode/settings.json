@@ -1,0 +1,48 @@
+{
+    "editor.fontSize": 15,
+    "editor.fontFamily": "Fira Code Retina, JetBrains Mono, Dank Mono",
+    "editor.renderWhitespace": "all",
+    "editor.minimap.scale": 2,
+    "editor.renderControlCharacters": true,
+    "editor.fontLigatures": true,
+    "editor.largeFileOptimizations": false,
+    "editor.detectIndentation": true,
+    "editor.lineHeight": 30,
+    "files.trimTrailingWhitespace": true,
+
+    // "workbench.startupEditor": "newUntitledFile",
+    "workbench.activityBar.visible": true,
+
+    "explorer.confirmDelete": false,
+
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.drawBoldTextInBrightColors": true,
+    "terminal.integrated.fastScrollSensitivity": 5,
+    "terminal.integrated.lineHeight": 1.5,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Monokai Night",
+    "prettier.tabWidth": 4,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": ["javascript"],
+    "window.zoomLevel": 1,
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.minimap.enabled": false,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

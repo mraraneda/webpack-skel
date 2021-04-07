@@ -1,10 +1,10 @@
-import '../css/comp.css';
+import "../css/comp.css";
 
 export const sayHi = (name) => {
-  console.log("Creando etiqueta H1");
+    console.log("Creando etiqueta H1");
 
-  const h1 = document.createElement("h1");
-  h1.innerText = `Hi, ${name}`;
+    const h1 = document.createElement("h1");
+    h1.innerText = `Hi, ${name}`;
 
-  document.body.append(h1);
+    document.body.append(h1);
 };

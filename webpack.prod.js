@@ -43,8 +43,7 @@ module.exports = {
                     loader: "babel-loader",
                     options: {
                         presets: [["@babel/preset-env", {
-                            "targets": "> 0.25%, not dead"
-                          }], "minify"],
+                            "targets": "> 0.25%, not dead"}], "minify"],
                     },
                 },
             },

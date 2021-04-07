@@ -10,10 +10,13 @@ JS project base with Webpack @ 5.3 configured and Babel @ 7.13
 npm install
 ```
 
-2. Build for development environment
+2. Build for development environment. To set up a development environment and a live server, you must execute these two commands in independent terminals, they will leave the prompt captured.
 
 ```bash
-npm run build:dev
+npm run autobuild:dev
+```
+```bash
+npm run servo
 ```
 
 2. Build for production environment
